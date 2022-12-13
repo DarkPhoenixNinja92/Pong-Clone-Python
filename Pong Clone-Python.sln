@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pong Clone-Python", "Pong Clone-Python\Pong Clone-Python.pyproj", "{F3CA3982-6966-4BFA-A34F-0E470355488E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CA3982-6966-4BFA-A34F-0E470355488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CA3982-6966-4BFA-A34F-0E470355488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0AF4CAA-3D47-4C90-87BC-4A78359197E0}
+	EndGlobalSection
+EndGlobal
